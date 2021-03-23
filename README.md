@@ -1,7 +1,11 @@
-# TransformChild
+# TransformChild and Rotate
 
-If you already have a designated scripts folder, drag both scripts from the "Scripts" folder and place
-them in there.
+These two scripts were designed in a private personal repository, but can probably help
+some people out if they're struggling with the same problems that I was.
+
+Here's how to use it
+
+If you already have a designated scripts folder, drag both scripts into the "Scripts" folder.
 
 To apply the Rotation script onto an object, simply enter the "Scripts" folder and drag the script
 called "Rotation" onto the object of your choice. 
